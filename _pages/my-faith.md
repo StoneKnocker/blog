@@ -8,4 +8,4 @@ author_profile: true
 * Where there is a will, there is a way.
 * Today is the youngest day of the rest of your life.
 * The best time to plat a tree is 20 years ago, the second best time is now.
-* Take action & focus.
+* Take action & focus & show your work.

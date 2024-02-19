@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Stone Knocker"
   avatar : "/assets/images/kids.jpg"
-  bio    : "The best time to plant a tree was 20 years ago. The second best time is now. Take action & show your work."
+  bio    : "Father of two. The best time to plant a tree was 20 years ago. The second best time is now."
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -98,9 +98,6 @@ defaults:
       layout: single
       author_profile: true
 
-category_archive:
-  type: liquid
-  path: /categories/
 tag_archive:
   type: liquid
   path: /tags/
