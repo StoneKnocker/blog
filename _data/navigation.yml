@@ -1,8 +1,8 @@
 main:
   - title: "Posts"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
+  - title: "My Faith"
+    url: /my-faith/
   - title: "Tags"
     url: /tags/
   - title: "About"
