@@ -12,8 +12,8 @@ schedule of every day:
 - Dive into Grokking Modern System Design 
 
 about to do in future:
-	* fill out the cv on linkedin
-	* talking with folks on discord
-	* have a mock interview
+- fill out the cv on linkedin
+- talking with folks on discord
+- have a mock interview
 
 Let's check this a few months later.
