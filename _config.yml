@@ -98,7 +98,7 @@ defaults:
       layout: single
       author_profile: true
 
-repository: StoneKnocker/blog
+repository: "StoneKnocker/blog"
 comments:
   provider: "utterances"
   utterances:
