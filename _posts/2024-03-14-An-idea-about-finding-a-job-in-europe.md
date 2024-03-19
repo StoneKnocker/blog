@@ -1,6 +1,6 @@
 ---
 title: An idea about finding a job in Europe
-date: 2024-03-17
+date: 2024-03-14
 tags: 旅欧 job
 ---
 I recently read a tweet from someone:
