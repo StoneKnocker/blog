@@ -1,5 +1,5 @@
 ---
-title: Learn to juggle
+title: Practicing what you known
 date: 2024-04-02
 tag: show your work
 ---
